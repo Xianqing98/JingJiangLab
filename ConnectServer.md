@@ -53,7 +53,7 @@ scp YOUR_HAWK_ID@itf08.psychiatry.uiowa.edu:/path/to/remote/file /path/to/local/
 ```
 rsync -avz -e ssh /path/to/source/ YOUR_HAWK_ID@itf08.psychiatry.uiowa.edu:/path/to/destination/
 ```
-## How to use Rclone to mount server folder
+## How to use Rclone to mount drive (Google/OneDrive)
 
 ## Concepts
 ### SSH
