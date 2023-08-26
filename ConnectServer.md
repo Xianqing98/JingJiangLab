@@ -5,7 +5,7 @@ University/Department server should be accessed with school Wifi or VPN connecte
 
 ## Connect to argon 
 
-### through SSH
+### Through SSH
 
 Open terminal on workstation.
 
@@ -18,7 +18,7 @@ Type in  password of `HawkID`
 
 ## Connect to psychiatry department server
 
-### through SSH
+### Through SSH
 
 Open terminal on workstation.
 
@@ -30,7 +30,7 @@ ssh YOUR_HAWK_ID@itf08.psychiatry.uiowa.edu
 Type in  password of `HAWKID`
 
 
-### through FastX
+### Through FastX
 Download and install FastX2 client through this [link](to be filled, probably host the installation package somewhere safe).
 
 Open FastX2
